@@ -1,5 +1,6 @@
-# ntanfumu-
-##Olá, 👋🏾👨🏾‍💻
+# ntanfumu
+
+# Olá, 👋🏾👨🏾‍💻
 
 Meu nome é Manuel Filipe Ntanfumu. Sou analista de TI em transição para Engenharia de Dados, com experiência em SQL, Python, dbt, BigQuery, Power BI e Looker Studio. Todos os dias trabalho com monitoramento, SLAs e resolução de incidentes em ambientes de alta criticidade, e levo essa disciplina para a construção de pipelines de dados confiáveis.
 
