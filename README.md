@@ -2,7 +2,7 @@
 
 Olá, 👋🏾👨🏾‍💻
 
-Meu nome é Manuel Filipe Ntanfumu. Sou analista de TI em transição para Engenharia de Dados, com experiência em SQL, Python, dbt, BigQuery, Power BI e Looker Studio. Todos os dias trabalho com monitoramento, SLAs e resolução de incidentes em ambientes de alta criticidade, e levo essa disciplina para a construção de pipelines de dados confiáveis.
+Meu nome é Manuel Filipe Ntanfumu. Sou analista de TI em transição para Analytics Enginner, com experiência em SQL, Python, dbt, BigQuery, Power BI e Looker Studio. Todos os dias trabalho com monitoramento, SLAs e resolução de incidentes em ambientes de alta criticidade, e levo essa disciplina para a construção de pipelines de dados confiáveis.
 
 * 🔭 Atualmente estou construindo pipelines ELT de ponta a ponta com Python, Docker, Google Cloud (Cloud Storage e BigQuery) e dbt Core.
 * 🌱 Estou aprendendo Azure Data Factory, Databricks, PySpark e DataOps (Git e CI/CD).
